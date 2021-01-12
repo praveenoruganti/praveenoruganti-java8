@@ -1,4 +1,4 @@
-# Praveen Oruganti Tech Java 8 Course
+# Java 8 Course
 
 
 - [Java 8 Features](https://praveenorugantitech.blogspot.com/2018/08/java-8-features.html){:target="_blank"}
