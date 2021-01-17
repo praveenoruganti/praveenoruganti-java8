@@ -1,6 +1,6 @@
 # Java 8 Course
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 - [Java 8 Features](https://praveenorugantitech.blogspot.com/2018/08/java-8-features.html){:target="_blank"}
 - [Lambda Expression](https://praveenorugantitech.blogspot.com/2018/08/lambda-expression.html){:target="_blank"}
